@@ -1,0 +1,343 @@
+*{
+    /* border: 1px solid red; */
+}
+
+
+
+.nav-item:hover{
+background-color: rgb(195, 218, 218);
+border-radius: 20px;
+height: 40px;
+
+
+}
+.navbar{
+    background-color:#f3f2f8;
+    
+}
+.form-control{
+  margin-left: 90px;
+}
+.navbar img{
+    height: 40px;
+}
+.bi-person,.bi-bell{
+    font-size: 23px;
+}
+.dropdown-item img{
+    height: 25px;
+}
+/* container css */
+ .text2{
+    color: #f7d80a
+}
+.text{
+    width: 40%;
+    padding: 20px;
+}
+.image-sec{
+    width: 50%;
+    display: flex;
+     justify-content: end;
+     align-items: center;
+
+}
+.image-sec img{
+    height: 400px;
+    padding: 30px;
+}
+.container-fluid1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    padding: 30px;
+} 
+.d-block{
+    height: 200px;
+}
+
+
+html,
+      body {
+        /* position: relative; */
+        height: 100%;
+      }
+
+      .swiper-wrapper{
+        display: flex;
+        justify-content: space-between;
+        /* background: #f7d80a; */
+        height: 35vh;
+      }
+      .swiper-slide{
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+        width: 200px;
+        border: 1px solid rgb(58, 56, 56);
+        justify-content: center;
+        align-items: center;
+        background: #fff;
+        border-radius: 20px;
+        box-shadow:4px 4px 4px 4px;
+        
+      }
+      .swiper-slide img{
+        height: 50px;
+        width: 50px;
+        margin-bottom: 20px;
+      }
+      .swiper-slide2 img{
+        height: 50px;
+        width: 50px;
+        margin-bottom: 20px;
+      }
+      .Technologies{
+        height: 40vh;
+      }
+      .Technologies1{
+        /* max-height: 200px; */
+        /* border: 1px solid #464242; */
+        display: flex;
+        overflow-x:scroll;
+
+      }
+      .Technologies1::-webkit-scrollbar{
+        width: 0;
+      }
+     .swiper-slide2{
+        display: flex;
+        flex-direction: column;
+        height: 150px;
+        width: 150px;
+        border: 1px solid rgb(58, 56, 56);
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        border-radius: 20px;
+        box-shadow:4px 4px 4px 4px;
+        
+      } 
+      .swiper-slide2{
+        min-width: 160px;
+        height: 160px;
+        line-height: 110px;
+        text-align:center;
+        /* background-color: #ddd; */
+        margin-left: 12px;
+
+      }
+      
+      /* card */
+      .card-body{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+      }
+      .card{
+        margin-left: 20px;
+      }
+
+
+      /* footer */
+      .main-container{
+        height: 160vh;
+        padding-top: 20px;
+          background-color:#1e1d47;
+      }
+      .container1{
+          display: flex;
+      }
+      .logo{
+          height: 55px;
+          width: 90px;
+          margin-left: 140px;
+      }
+      .inter{
+         margin-top: 27px;
+          color: #fff;
+          font-size: 22px;
+      }
+      .footer{
+          display: flex;
+      }
+      
+      .one{
+          display: flex;
+          margin: 0px 40px 0px 40px;
+      
+      }
+      .card1{
+          width:30%;
+          /* height: 100vh; */
+          margin-left: 80px;
+      }
+      
+      .one{
+          text-decoration: none;
+          height: 150px;
+      }
+      .bbb{
+          text-decoration: none;
+          /* list-style: none; */
+          color: rgb(247, 239, 239);
+          font-size: 14px;
+      }
+      .aaa{
+          list-style: none;
+          margin-top: 10px;
+      }
+      .icon{
+      margin-left: 50px;
+      font-size: 25px;
+      }
+      .bi{
+          margin-left: 22px;
+          color: #fff;
+      }
+      .Practice ,.Fast{
+          margin-left: 40px;
+      }
+      
+              /* card2 */
+      .card2{
+          margin-top: 18px;
+         width: 70%;
+      }
+      .main1{
+          width: 70%;
+          display: flex;
+          justify-content: space-between;
+      }
+      .h{
+          margin-top: 15px;
+          font-size: 16px;
+          
+      }
+      .hi{
+          margin-top: 18px;
+          font-weight: 500;
+          font-size: 14px;
+      }
+      .hii{
+          margin-top: 13px;
+          font-size: 14px;
+      }
+      .bb{
+          text-decoration: none;
+          
+          color: #fff;
+          font-size: 14px;
+          margin-left: 20px;
+      }
+      .aa{
+          list-style: none;
+          margin-top: 10px;
+          margin-left: 23px;
+      }
+      .b{
+          text-decoration: none;
+          
+          color: #fff;
+          font-size: 14px;
+          /* margin-left: 20px; */
+      }
+      .a{
+          list-style: none;
+          margin-top: 10px;
+      }
+      
+      .vl {
+          margin-top: 10px;
+          border: 1px solid rgb(225, 187, 155);
+          margin-left: 20px;
+          height: 25px;
+        }
+        .head,.h,.hi,.hii{
+          color: #fff;
+        }
+
+
+        .box1{
+          border: 1px solid black;
+padding: 10px;
+        }
+        .using{
+          color: rgb(90, 83, 83);
+          font-size: 15px;
+        }
+        .vivek{
+          color: red;
+        }
+
+
+
+
+      .col-4{
+        display: flex;
+       overflow-y: scroll;
+        
+        
+      }
+      .col-4::-webkit-scrollbar{
+        width: 15px;
+        background-color: #f7d80a;
+      }
+      .col-4::-webkit-scrollbar-thumb{
+        background-color: aqua;
+
+      }
+      .col-8{
+        
+      }
+
+
+
+      .main{
+        margin-top: 100px;
+        height: 100vh;
+        background-color:#ffF;
+        display: flex;
+      }
+      
+
+      .sidebar{
+        margin-left: 20px;
+  min-height: 100%;
+        width: 30%;
+        top: 0;
+        background-color: rgb(223, 227, 227);
+        overflow-y: scroll;
+      }
+
+      .content{
+        margin-left: 20px;
+  min-height: 100%;
+        width: 70%;
+        top: 0;
+        /* background-color: rgb(223, 227, 227); */
+        overflow-y: scroll;
+      }
+
+
+
+
+      .sidebar::-webkit-scrollbar{
+        width: 10px;
+        background-color: rgb(103, 97, 97);
+      }
+    .sidebar::-webkit-scrollbar-thumb{
+      /* background-color: #f7d80a; */
+  
+    }
+
+    .content::-webkit-scrollbar{
+      width: 10px;
+      /* background-color: rgb(182, 29, 29); */
+    }
+    .sidebar::-webkit-scrollbar-thumb{
+      /* background-color: #f7d80a; */
+    }
+   
+
